@@ -1,0 +1,8 @@
+__pycache__
+.git
+.gitignore
+.venv
+build_pkl.py
+metrics.py
+Dockerfile
+*.jpg

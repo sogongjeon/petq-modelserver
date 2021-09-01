@@ -1,0 +1,7 @@
+tensorflow
+keras
+flask
+wheel
+pandas
+pillow
+numpy
